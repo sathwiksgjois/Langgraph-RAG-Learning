@@ -23,15 +23,12 @@ This repository teaches how **real-world RAG systems and LangGraph workflows** a
 
 ---
 
-# ▶️ Setup
+# ▶️ Setup and Running
 
 ```bash
 pip install -r requirements.txt
 
----
-
-
-# ▶️ Running Example
+# Running Example
 
 Run from project root:
 
