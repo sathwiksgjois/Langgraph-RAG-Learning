@@ -1,4 +1,4 @@
-# 🚀 LangGraph + RAG Learning (Practical & Real)
+# 🚀 LangGraph + RAG Learning (Real-Time)
 
 This repository teaches how **real-world RAG systems and LangGraph workflows** are built.
 
