@@ -27,3 +27,13 @@ This repository teaches how **real-world RAG systems and LangGraph workflows** a
 
 ```bash
 pip install -r requirements.txt
+
+---
+
+
+# ▶️ Running Example
+
+Run from project root:
+
+```bash
+python langgraph_rag_pipeline/example.py
